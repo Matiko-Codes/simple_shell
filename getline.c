@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * get_line - Prints "Mi_shell/user@root$"  and wait for a command
+ * get_line - Prints "Simpleshell/user@root$"  and wait for a command
  * @isatty_val: no_interactive
  * Return: The read command (line)
  **/
@@ -12,7 +12,7 @@ char *get_line(int isatty_val)
 
 	if (isatty_val == 1)
 	{
-		write(STDOUT, "\033[1;31mMi_shell/user@root$ ", 32);
+		write(STDOUT, "\033[1;31mSimpleshell/user@root$ ", 32);
 		write(STDOUT, "\033[0m", 4);
 	}
 
