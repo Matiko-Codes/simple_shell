@@ -1,5 +1,5 @@
-#ifndef SIMPLESHELL_H_
-#define SIMPLESHELL_H_
+#ifndef SHELL_H
+#define SHELL_H
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -42,4 +42,4 @@ void _printenv(char **environ);
 int _putchar(char c);
 void _puts(char *str);
 char **_path(char **environ);
-#endif /* SIMPLESHELL_H_ */
+#endif
