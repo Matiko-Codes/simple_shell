@@ -1,7 +1,7 @@
 #include "simple_shell.h"
 /**
  * prompt_shell - function to print the prompt
- * @void: wherever
+ * @void: whatever
  * Return: none
  */
 void prompt_shell(void)
