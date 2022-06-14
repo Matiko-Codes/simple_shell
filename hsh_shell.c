@@ -4,7 +4,7 @@
  * main - Executes all main functions
  * @argc:  count to arguments
  * @av:  pointers with arguments
- * @env: wherever
+ * @env: whatever
  * Return: Nothing
  */
 
