@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  * _exit_function - function to print
  * @void: the exit

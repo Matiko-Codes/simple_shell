@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  *str_concat - back a pointer to array
  *@s1: Array one

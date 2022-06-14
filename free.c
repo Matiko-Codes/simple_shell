@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  * free_dp - free all files
  * @line: double pointer to free

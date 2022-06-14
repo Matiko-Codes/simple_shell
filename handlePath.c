@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  * check_path -function that checkout the path
  * @env: wherever

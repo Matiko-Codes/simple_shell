@@ -3,7 +3,7 @@
 .B shell
 - a standard command interpreter similar to the GNU Bourne-Again SHell (sh).
 .SH SYNOPSIS
-#include "shell.h"
+#include "simple_shell.h"
 .PP
 .shell
 .PP

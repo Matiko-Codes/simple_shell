@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  * prompt_shell - function to print the prompt
  * @void: wherever

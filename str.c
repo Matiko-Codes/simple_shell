@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simple_shell.h"
 /**
  * _strcmp - Compares two strings
  * @s1: The string to 1t
