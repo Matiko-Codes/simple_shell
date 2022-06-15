@@ -42,7 +42,7 @@ unsigned int i, size;
 if (str == 0)
 return (NULL);
 size = _strlen(str) + 1;
-arr = (char *)malloc(size * sizeof(char));
+arr = (char *)malloc(size *sizeof(char));
 if (arr == 0)
 return (NULL);
 for (i = 0; *(str + i) != '\0'; i++)
