@@ -69,7 +69,7 @@ size = count_chr(aux, PATH_DELIMIT) + BUFF_MAX;
 paths = (char **)malloc(sizeof(char *) * size);
 /* if fail copy path string or fail the malloc return NULL */
 if (paths == NULL)
-return (NULL);	
+return (NULL);
 /* split all string and return pointer to each memory positions */
 my_path = strtok(aux, PATH_DELIMIT);
 while (my_path != NULL)
