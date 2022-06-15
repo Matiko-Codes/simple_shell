@@ -1,6 +1,6 @@
 #include "simple_shell.h"
 /**
- * _exit_function - function to print
+ * _exit_function - print function
  * @void: the exit
  * Return: none
  */
