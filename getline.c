@@ -1,6 +1,6 @@
 #include "simple_shell.h"
 /**
- * get_line - Prints "Simpleshell/user@root$"  and wait for a command
+ * get_line - Prints "Simpleshell/user@root$" then  wait for a command
  * @isatty_val: no_interactive
  * Return: The read command (line)
  **/
