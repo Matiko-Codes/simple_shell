@@ -86,7 +86,6 @@ j++;
 my_path = strtok(NULL, PATH_DELIMIT);
 }
 paths[j] = NULL;
-free(aux);
 return (paths);
 }
 i++;
